@@ -1,0 +1,153 @@
+.img{
+	background-image: url('../img/bg.jpg');
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 650px;
+}
+
+.headerset{
+	padding-top: 260px;
+	box-sizing: border-box;
+}
+
+.headerset h2{
+	font-size: 42px;
+}
+
+.headerset h1{
+font-size:  82px;
+font-weight: bold;
+}
+
+/*
+******************ourservices***********************/
+
+.ourservices{
+	padding: 100px 0px 60px;
+	height: 700px;
+}
+
+.ourservices h1{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.rowsetting{
+	margin: 80px 0px !important;
+
+}
+
+.imgsetting{
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+}
+
+.fa-shopping-cart{
+	margin-top: 20px;
+}
+
+.fa-desktop{
+	margin-top: 26px;
+}
+
+.fa-lock{
+	margin-top: 25px;
+}
+
+.rowsetting h2{
+	margin-top: 20px;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.rowsetting p{
+padding: 10px;
+color: #212529! im;
+
+}
+
+/*////////////////portfolio//*/
+
+.portfolio{
+	height: 1000;
+	width: 100%;
+	padding: 100px 0px 50px;
+}
+
+.portfolio h1{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.card{
+	margin-top: 40px;
+}
+
+/*/////////////////ourteam//////////////*/
+
+.ourteams{
+	height: 700px;
+	padding: 100px 0px 60px;
+	width: 100px;
+}
+
+.ourteam h1{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.teamsetting{
+	margin-top: 70px !important;
+}
+
+/*footer*/
+
+.footer{
+	height: 50px;
+}
+
+.footer h6{
+	line-height: 50px;
+}
+
+/*Responsive*/
+
+@media(min-width: 992px){
+
+}
+
+@media(min-width: 768px) and (max-width: 991px){
+
+}
+
+@media(min-width: 575px) and (max-width: 767px){
+
+}
+
+@media(min-width: 460px) and (max-width574px){
+
+}
+
+@media(max-width: 479px) {
+
+.headerset h2{
+	font-size: 22px;
+}
+
+.headerset h1{
+font-size: ; 42px
+font-weight: bold;
+}
+}
+
+.ourservices{
+	
+	height: 1200px;
+}
+
+.portfolio{
+	height: 2000px;
+}
+
